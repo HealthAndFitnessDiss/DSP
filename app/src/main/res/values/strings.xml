@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">HealthAndFitness</string>
+    <string name="hello">Hello</string>
+    <string name="welcome">Welcome to BodyBuddy</string>
+    <string name="begin">To begin your tracking journey please create an account.</string>
+    <string name="begin2">If this isn\'t the beginning of your journey please sign in.</string>
+    <string name="createAccount">Create Account</string>
+    <string name="signIn">Sign In</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="logIn">Log In</string>
+    <string name="register">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_nav_view">NavViewActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="calorie">Calorie</string>
+    <string name="workout">Workout</string>
+    <string name="tracking">Tracking</string>
+
+    <string name="exampleEmail">john@email.com</string>
+    <string name="examplePassword">*********</string>
+    <string name="logOut">Log Out</string>
+    <string name="profile">Profile</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="add_food">Add Food</string>
+    <string name="name">Name</string>
+    <string name="brand_name">Brand Name</string>
+    <string name="calories_kcal">Calories (kcal)</string>
+    <string name="protein_g">Protein (g)</string>
+    <string name="fats_g">Fats (g)</string>
+    <string name="saturates_g">Saturates (g)</string>
+    <string name="sugar_g">Sugar (g)</string>
+    <string name="values_accurate_per">Values accurate per . . .</string>
+    <string name="_100">100</string>
+    <string name="notes">Notes . . .</string>
+    <string name="save">Save</string>
+    <string name="save_add"><![CDATA[Save & Add]]></string>
+    <string name="carbohydrate_g">Carbohydrate (g)</string>
+    <string name="fibre_g">Fibre (g)</string>
+    <string name="salt_g">Salt (g)</string>
+    <string name="john">John . . .</string>
+    <string name="first_name">First Name</string>
+    <string name="surname">Surname</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="xContinue">Continue</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight</string>
+    <string name="kg">kg</string>
+    <string name="lbs">lbs</string>
+    <string name="add_workout">Add Workout</string>
+    <string name="add_exercise">Add Exercise</string>
+    <string name="create_new_exercise">Create New Exercise</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="muscle_group">Muscle Group</string>
+    <string name="save_exercise">Save Exercise</string>
+    <string name="set_1">Set 1</string>
+    <string name="_1_set">+1 Set</string>
+    <string name="reps_time">Reps/Time</string>
+    <string name="set_2">Set 2</string>
+    <string name="set_3">Set 3</string>
+    <string name="kcal0">0 kcal</string>
+    <string name="kcal"> kcal</string>
+    <string name="recorded_calories">Recorded Calories</string>
+    <string name="calorie_goal">Calorie Goal</string>
+    <string name="daily_calorie_tracker">Daily Calorie Tracker</string>
+    <string name="calculate_your_bmi">Calculate Your BMI</string>
+    <string name="height">Height</string>
+    <string name="calculate">Calculate</string>
+    <string name="your_bmi_is">Your BMI is :</string>
+    <string name="create_a_new_food_item">Create a New Food Item</string>
+    <string name="food_name">Food Name</string>
+    <string name="serving_size">Serving Size</string>
+    <string name="measurement">Measurement</string>
+    <string name="number_of_servings">Number of Servings</string>
+    <string name="quick_add_calories">Quick Add Calories</string>
+    <string name="add">Add</string>
+    <string name="calorie_tracking">Calorie Tracking</string>
+    <string name="back"><![CDATA[< Back]]></string>
+    <string name="continueN"><![CDATA[Continue >]]></string>
+    <string name="calorie_tracking_info">If you would like to use BodyBuddy for tracking your caloric and macro intake while progressing to a weight goal, then please fill in the following details.\nIf you do not wish to share these details you can continue to the next page. You can always add these detail later from the profile tab if you wish to use these features!</string>
+    <string name="height_m">Height (m)</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="calculate_calorie">Calculate Your Daily Calorie Goal</string>
+    <string name="weight_goals_info">Find out How many calories you should be aiming to consume to progress towards your weight goals</string>
+    <string name="activity_level">Activity Level :</string>
+    <string name="weight_gain_pace">Weight Gain Pace :</string>
+    <string name="food_name_test">Food Name Test</string>
+    <string name="_500_kcal">500 kcal</string>
+    <string name="_16_00">16:00</string>
+    <string name="daily_food_log">Daily Food Log</string>
+    <string name="calories">Calories</string>
+    <string name="time">Time</string>
+    <string name="search_foods">Search Foods</string>
+    <string name="search_your_food_items">Search Your Food Items</string>
+    <string name="search_for_a_food">Search for a Food</string>
+    <string name="back_to_search">Back To Search</string>
+    <string name="create_new_workout">Create New Workout</string>
+    <string name="save_sets">Save Sets</string>
+    <string name="_1">1</string>
+    <string name="_3_sets">3 sets</string>
+    <string name="daily_workout_log">Daily Workout Log</string>
+    <string name="no_of_sets">No. Of Sets</string>
+
+
+    <string-array name="arrayWeightUnit">
+        <item>kg</item>
+        <item>lbs</item>
+    </string-array>
+
+</resources>
